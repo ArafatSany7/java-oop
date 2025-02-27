@@ -4,7 +4,7 @@ public class Box {
     int hight;
     int width;
 
-    public Box(int a, int b) {
+    Box(int a, int b) {
 
         this.hight = a;
         this.width = b;
